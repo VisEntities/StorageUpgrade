@@ -4,7 +4,7 @@ This plugin enables players to upgrade the capacity of their storage containers 
 
 -----------------
 
-## How to Upgrade
+## Upgrading
 Hit the container with a hammer while holding down the right mouse button.
 
 -----------------
